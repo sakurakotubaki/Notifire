@@ -1,4 +1,4 @@
-# Notifire
+# NotifireProvider
 Riverpod2.0のNotifireを使ってみた!
 
 参考にしたサイト
